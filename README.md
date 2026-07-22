@@ -2,9 +2,9 @@
 
 ## Data Engineer | Software Engineer
 
-I am a software and database engineering professional with 9+ years of experience in enterprise application development, SQL Server, database design, and backend systems.
+Software and database engineering professional with 9+ years of experience in enterprise application development, SQL Server, database design, backend systems, and data processing.
 
-I completed the MIT xPRO Professional Certificate in Data Engineering, where I developed hands-on projects involving ETL pipelines, workflow orchestration, real-time data streaming, Change Data Capture, containerization, APIs, and data visualization.
+I completed the MIT xPRO Professional Certificate in Data Engineering, where I built hands-on projects involving ETL pipelines, Apache Airflow orchestration, real-time streaming, Change Data Capture, Docker, APIs, databases, and interactive data visualization.
 
 ## Technical Skills
 
@@ -17,7 +17,7 @@ I completed the MIT xPRO Professional Certificate in Data Engineering, where I d
 - Data cleaning and transformation
 - Data validation and analysis
 
-### Languages and Databases
+### Programming Languages
 
 - Python
 - SQL
@@ -25,9 +25,13 @@ I completed the MIT xPRO Professional Certificate in Data Engineering, where I d
 - Java
 - C#
 - JavaScript
+
+### Databases
+
 - SQL Server
 - MySQL
 - MongoDB
+- Azure SQL
 
 ### Platforms and Tools
 
@@ -37,7 +41,6 @@ I completed the MIT xPRO Professional Certificate in Data Engineering, where I d
 - Databricks
 - Azure Data Factory
 - Azure Data Lake Storage
-- Azure SQL
 - MQTT
 - ThingsBoard
 - Flask
@@ -49,15 +52,15 @@ I completed the MIT xPRO Professional Certificate in Data Engineering, where I d
 
 [View Repository](https://github.com/GeethaBheeman/real-time-iot-data-streaming-platform)
 
-Built a containerized real-time streaming platform using MQTT, ThingsBoard, Firebase, Apache Kafka, Python, and Node.js.
+Built a containerized real-time streaming platform using MQTT, ThingsBoard, Firebase, Apache Kafka, Python, Node.js, and Docker.
 
-**Highlights:**
+**Highlights**
 
 - Published temperature and humidity telemetry through MQTT.
-- Configured ThingsBoard dashboards, alarms, and Firebase integration.
-- Produced live vehicle-coordinate data through Kafka.
-- Consumed streaming events through a Node.js web application.
-- Used Docker to run the platform services.
+- Configured ThingsBoard dashboards, alarm rules, and Firebase integration.
+- Produced live vehicle-coordinate events through Apache Kafka.
+- Consumed streaming data through a Node.js web application.
+- Containerized platform services using Docker.
 
 ---
 
@@ -65,16 +68,16 @@ Built a containerized real-time streaming platform using MQTT, ThingsBoard, Fire
 
 [View Repository](https://github.com/GeethaBheeman/sensemaking-data-pipeline)
 
-Developed a Dockerized Apache Airflow pipeline that extracts and processes unstructured MIT course catalog data.
+Developed a Dockerized Apache Airflow pipeline that extracts, cleans, analyzes, and visualizes unstructured MIT course catalog data.
 
-**Highlights:**
+**Highlights**
 
-- Built a six-task Airflow DAG.
+- Designed a six-task Apache Airflow DAG.
 - Extracted web data using Python and `urllib`.
-- Parsed HTML using BeautifulSoup.
+- Parsed unstructured HTML using BeautifulSoup.
 - Cleaned and transformed course-title data.
 - Performed word-frequency analysis.
-- Created an interactive D3.js visualization.
+- Created an interactive D3.js bubble visualization.
 
 ---
 
@@ -82,22 +85,22 @@ Developed a Dockerized Apache Airflow pipeline that extracts and processes unstr
 
 [View Repository](https://github.com/GeethaBheeman/real-time-transit-data-pipeline)
 
-Built an end-to-end MBTA transit-data application using Python, Flask, MySQL, MongoDB, Debezium, Docker, Java, and Mapbox.
+Built an end-to-end MBTA transit-data application using Python, Flask, MySQL, MongoDB, Debezium, Docker, Java, Mapbox, and Jupyter Notebook.
 
-**Highlights:**
+**Highlights**
 
 - Retrieved live MBTA bus-location data through a REST API.
 - Stored historical transit records in MySQL.
-- Displayed vehicle positions through Flask and Mapbox.
-- Captured database changes using Debezium CDC.
+- Displayed bus positions through Flask and Mapbox.
+- Captured MySQL changes using Debezium Change Data Capture.
 - Transferred CDC events from MySQL to MongoDB.
-- Analyzed transit data using Pandas and Jupyter Notebook.
+- Analyzed route completion time and vehicle speed using Pandas.
 
 ## Professional Background
 
-My earlier professional experience includes enterprise software development, SQL Server database engineering, stored procedures, data modeling, web services, backend development, and full software development lifecycle participation.
+My professional experience includes enterprise software development, SQL Server database engineering, stored procedures, relational data modeling, web services, backend development, reporting, and full software development lifecycle participation.
 
-I am currently applying this foundation to modern Data Engineering solutions involving Python, cloud platforms, distributed processing, orchestration, streaming, and containerized systems.
+I am applying this foundation to modern data engineering solutions involving Python, cloud platforms, distributed processing, workflow orchestration, streaming, and containerized systems.
 
 ## Certification
 
@@ -108,11 +111,11 @@ I am currently applying this foundation to modern Data Engineering solutions inv
 - Data Engineer opportunities
 - ETL and data pipeline development
 - Python and SQL
-- Apache Airflow and Kafka
+- Apache Airflow and Apache Kafka
 - Azure and Databricks
 - Real-time and distributed data processing
 
 ## Connect With Me
 
-- [LinkedIn](www.linkedin.com/in/geetha-bheeman)
+- [LinkedIn](https://www.linkedin.com/in/geetha-bheeman)
 - [GitHub](https://github.com/GeethaBheeman)
