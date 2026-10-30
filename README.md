@@ -1,10 +1,16 @@
 # Hi, I'm Geetha Bheeman 👋
 
-## Data Engineer | Software Engineer
+## Data Engineer | ETL & SQL Developer | 9+ Years in SQL Server & Software Engineering | MIT xPRO Data Engineering
 
-Software and database engineering professional with 9+ years of experience in enterprise application development, SQL Server, database design, backend systems, and data processing.
+Data and software engineer with 9+ years of experience in enterprise application development, SQL Server database engineering, backend development, reporting, and production support.
 
-I completed the MIT xPRO Professional Certificate in Data Engineering, where I built hands-on projects involving ETL pipelines, Apache Airflow orchestration, real-time streaming, Change Data Capture, Docker, APIs, databases, and interactive data visualization.
+After a planned career break, I returned to professional work in 2024 and most recently worked as a Software Developer through February 2025. Since then, I have focused on strengthening my modern data engineering skills and completed the MIT xPRO Professional Certificate in Data Engineering.
+
+My recent hands-on work includes building batch and real-time data solutions using Python, PySpark, Databricks, Azure Data Factory, Apache Airflow, Kafka, Docker, SQL, REST APIs, relational and NoSQL databases, workflow orchestration, and Change Data Capture.
+
+My background combines extensive enterprise SQL and software engineering experience with current data engineering capabilities. My portfolio includes real-time IoT and Kafka streaming, an Airflow-orchestrated ETL pipeline, and a real-time transit data pipeline using MySQL, MongoDB, Docker, and Debezium CDC.
+
+I am currently exploring Data Engineer, ETL Developer, Data Integration Engineer, SQL Developer, and related opportunities, including career reentry programs.
 
 ## Technical Skills
 
